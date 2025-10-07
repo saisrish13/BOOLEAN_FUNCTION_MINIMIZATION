@@ -43,8 +43,10 @@ Developed by: RegisterNumber:*/
 **Output:**
 
 **RTL**
+![RTL viewer exp 1](https://github.com/user-attachments/assets/882941c6-ad7a-4aac-a9f5-5f8a9651bd61)
 
 **Timing Diagram**
+![State Diagram exp 1](https://github.com/user-attachments/assets/87e3f57a-841c-4ac0-abc9-d46d9d64c738)
 
 **Result:**
 
