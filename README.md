@@ -43,10 +43,14 @@ Developed by: RegisterNumber:*/
 **Output:**
 
 **RTL**
-![RTL viewer exp 1](https://github.com/user-attachments/assets/882941c6-ad7a-4aac-a9f5-5f8a9651bd61)
+![1ST RTL VIEWER exp 2](https://github.com/user-attachments/assets/5e739800-c568-4cbd-b946-7bf38be35483)
+![2nd RTL VIEWER exp 2](https://github.com/user-attachments/assets/32c45c4c-ccf6-4b95-b22b-cd4c4ff440c0)
+
 
 **Timing Diagram**
-![State Diagram exp 1](https://github.com/user-attachments/assets/87e3f57a-841c-4ac0-abc9-d46d9d64c738)
+![1ST STATE DIAGRAM exp 2](https://github.com/user-attachments/assets/19d810fb-2711-445a-9e23-cc29fae17ba5)
+![2ND STATE DIAGRAM exp 2](https://github.com/user-attachments/assets/b5564eed-4b6c-45d0-9245-e65918bd591c)
+
 
 **Result:**
 
